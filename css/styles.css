@@ -4,9 +4,18 @@ body {
     font-family: 'Merriweather', serif;
 }
 h1 {
+    font-size: 4.5rem;
     margin-top: 0px;
     font-family: 'Sacramento', cursive;
+    margin-bottom: 0px;
+    margin-top: 25px;
+    color : #3b14a7;
   }
+.fresher {
+    margin-bottom: 25px;
+    margin-top: 0px;
+    color : #3b14a7;
+}  
 div {
     background-color: #e4f9f5;
     padding-top: 100px;
@@ -16,14 +25,92 @@ div {
 
 .bottom-cloud {
     position: absolute;
-    left : 300px;
-    bottom : 300px;
+    
+
+ 
+
 }
 
 .top-cloud{
     position: absolute;
     right : 250px;
     top : 50px;
+   
     
 }
+.skills {
+    padding-top: 10px;
+    margin: auto;
+    width: 50%;
 
+
+}
+
+.skill-row {
+    padding-top: 50px;
+    width: 600px;
+    height: 200px;
+    
+
+}
+
+.skills_1 {
+ 
+    height: 150px;
+    width: 150px;
+    float: left;
+    
+  
+}
+
+.cyber_security{
+    height: 150px;
+    width: 150px;
+    float: right;
+
+}
+
+.rohit {
+    height: 350px;
+    width: 350px;
+}
+
+.h3_webdev{
+    color: #f21170;
+    text-align: left;
+    margin-left: 200px;
+    line-height: 2;
+}
+
+.h3_cybersec {
+    color: #f21170;
+    text-align: left;
+    margin-left: 0px;
+    line-height: 2;
+}
+
+.footer-link {
+    color: #f21170;
+    margin-left: 10px;
+}
+
+.contact-me {
+    padding-top: 0px;
+}
+
+.webdev_p {
+    text-align: left;
+    margin-left: 200px;
+    line-height: 2;
+}
+
+.cybersec_p {
+    text-align: left;
+    margin-left: 200px;
+    margin-left: 0px;
+}
+
+.my-skills{
+    text-align: center;
+    color : #3b14a7;
+}
